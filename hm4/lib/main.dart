@@ -60,8 +60,8 @@ class _ProfilePageState extends State<ProfilePage> {
     setState(() {
       isFollowing = false;
       isLiked = false;
-      followers = followers;
-      likes = likes;
+      followers = 1200;
+      likes = 340;
     });
   }
 
