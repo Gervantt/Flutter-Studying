@@ -1,0 +1,11 @@
+# Claude / claude-flow
+.claude/
+.claude-flow/
+.swarm/
+.hive-mind/
+.mcp.json
+CLAUDE.md
+claude-flow.config.json
+
+# macOS
+.DS_Store
