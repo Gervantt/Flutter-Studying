@@ -81,7 +81,7 @@ class _ProfilePageState extends State<ProfilePage> {
     );
   }
 
-  // Одна колонка статистики: число и подпись
+  // Statistics
   Widget stat(String number, String label) {
     return Column(
       children: [
